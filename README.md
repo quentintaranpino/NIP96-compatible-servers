@@ -8,4 +8,4 @@ List of servers compatible with NIP-96. You can find more information about NIP-
 |https://sove.rent|[nostrcheck-server](https://github.com/quentintaranpino/nostrcheck-api-ts)|
 |https://nostrage.com|[nostrcheck-server](https://github.com/quentintaranpino/nostrcheck-api-ts)|
 |https://files.sovbit.host|[nostrcheck-server](https://github.com/quentintaranpino/nostrcheck-api-ts)|
-|https:/void.cat|[void-cat](https:/void.cat)|
+|https://void.cat|[void-cat](https:/void.cat)|
