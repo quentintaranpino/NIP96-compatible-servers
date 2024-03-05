@@ -12,3 +12,4 @@ List of servers compatible with NIP-96. You can find more information about NIP-
 |https://void.cat|[void-cat](https:/void.cat)| [contact info](https://nostrcheck.me/u/npub1v0lxxxxutpvrelsksy8cdhgfux9l6a42hsj2qzquu2zk7vc9qnkszrqj49)
 |https://nostpic.com|[nostrcheck-server](https://github.com/quentintaranpino/nostrcheck-api-ts)| [contact info](https://nostrcheck.me/u/npub1vd9ar8jusldjze24eq2tlz8xdt8pwkq99ydxh6gtzkkrkgj8m2dsndwen9)
 |https://mockingyou.com/|[nostrcheck-server](https://github.com/quentintaranpino/nostrcheck-api-ts)| [contact info](https://nostrcheck.me/u/npub1rand0mfafc3aqkrffcn23ezrvzhyskt9ym3kpzhqdl3fe8l427wswdmszh)
+|https://nostr.onch.services/|[nostrcheck-server](https://github.com/quentintaranpino/nostrcheck-api-ts)| [contact info](https://nostrcheck.me/u/npub16kx2y75y6p4jfyppf2eeas7wayjkg2vf8er4an00u3d43wap8fyq0ede34)
